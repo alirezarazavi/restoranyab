@@ -1,0 +1,71 @@
+@font-face {
+    font-family: 'BRoya';
+    src: url('BRoya.eot');
+    src: url('BRoya.eot?#iefix') format('embedded-opentype'),
+         url('BRoya.woff') format('woff'),
+         url('BRoya.ttf') format('truetype'),
+         url('BRoya.svg#BRoya') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'BRoyaBold';
+    src: url('BRoyaBold.eot');
+    src: url('BRoyaBold.eot?#iefix') format('embedded-opentype'),
+         url('BRoyaBold.woff') format('woff'),
+         url('BRoyaBold.ttf') format('truetype'),
+         url('BRoyaBold.svg#BRoyaBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'BTrafficBold';
+    src: url('BTrafficBold.eot');
+    src: url('BTrafficBold.eot?#iefix') format('embedded-opentype'),
+         url('BTrafficBold.woff') format('woff'),
+         url('BTrafficBold.ttf') format('truetype'),
+         url('BTrafficBold.svg#BTrafficBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'BTraffic';
+    src: url('BTraffic.eot');
+    src: url('BTraffic.eot?#iefix') format('embedded-opentype'),
+         url('BTraffic.woff') format('woff'),
+         url('BTraffic.ttf') format('truetype'),
+         url('BTraffic.svg#BTraffic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'BYekan';
+    src: url('BYekan.eot');
+    src: url('BYekan.eot?#iefix') format('embedded-opentype'),
+         url('BYekan.woff') format('woff'),
+         url('BYekan.ttf') format('truetype'),
+         url('BYekan.svg#BYekan') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'SegoeUI';
+    src: url('SegoeUI.eot');
+    src: url('SegoeUI.eot?#iefix') format('embedded-opentype'),
+         url('SegoeUI.woff') format('woff'),
+         url('SegoeUI.ttf') format('truetype'),
+         url('SegoeUI.svg#SegoeUI') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}

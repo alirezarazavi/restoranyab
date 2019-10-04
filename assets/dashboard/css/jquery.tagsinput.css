@@ -1,0 +1,69 @@
+div.tagsinput {
+	-moz-box-sizing: border-box;
+	border-color: #DDDDDD;
+	border-radius: 0;
+	color: #454545;
+	background-color: #FFFFFF;
+	border: 1px solid #CCCCCC;
+	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
+	transition: border 0.2s linear 0s, box-shadow 0.2s linear 0s;
+	padding: 5px;
+	padding-right: 0;
+	overflow-y: auto;
+}
+div.tagsinput span.tag {
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	display: block;
+	float: right;
+	padding: 1px 3px 3px;
+	text-decoration: none;
+	background: #fcfcfc;
+	background: -moz-linear-gradient(top, #fcfcfc 0%, #f1f1f1 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fcfcfc), color-stop(100%,#f1f1f1));
+	background: -webkit-linear-gradient(top, #fcfcfc 0%,#f1f1f1 100%);
+	background: -o-linear-gradient(top, #fcfcfc 0%,#f1f1f1 100%);
+	background: -ms-linear-gradient(top, #fcfcfc 0%,#f1f1f1 100%);
+	background: linear-gradient(top, #fcfcfc 0%,#f1f1f1 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcfcfc', endColorstr='#f1f1f1',GradientType=0 );
+	border: 1px solid #D2D2D2;
+	color: #808080;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	font-family: Tahoma;
+	font-size: 11px;
+	direction: rtl;
+}
+div.tagsinput span.tag a {
+	font-weight: bold;
+	color: #A7A7A7;
+	text-decoration: none;
+	font-size: 11px;
+}
+div.tagsinput input {
+	direction: rtl;
+	width: auto;
+	margin: 0px;
+	font-family: Tahoma;
+	font-size: 11px;
+	border: 1px solid transparent;
+	padding: 1px 3px 3px;
+	background: transparent;
+	color: #000;
+	outline: 0px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+}
+div.tagsinput div {
+	display: block;
+	float: right;
+}
+.tags_clear {
+	clear: both;
+	width: 100%;
+	height: 0px;
+}
+.not_valid {
+	background: #FBD8DB !important;
+	color: #90111A !important;
+}

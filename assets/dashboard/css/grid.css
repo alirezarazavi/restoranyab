@@ -1,0 +1,85 @@
+/* === Grid === */
+
+.widget{
+	width: 100%;
+	*zoom: 1;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+}
+.widget:before, .widget:after {
+	display: table;
+	content: "";
+}
+.widget:after {
+	clear: both;
+}
+.ltr-inputs [class*="grid"] {
+	float: left;
+}
+[class*="grid"] {
+	display: block;
+	width: 100%;
+	position: relative;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+	float: right;
+	margin-right: 2.127659574%;
+	*margin-right: 2.0744680846382977%;
+/*	line-height: 30px;*/
+}
+[class*="grid"]:first-child {
+	margin-right: 0;
+}
+
+.grid12 {
+	width: 99.99999998999999%;
+	*width: 99.94680850063828%;
+}
+.grid11 {
+	width: 91.489361693%;
+	*width: 91.4361702036383%;
+}
+.grid10 {
+	width: 82.97872339599999%;
+	*width: 82.92553190663828%;
+}
+.grid9 {
+	width: 74.468085099%;
+	*width: 74.4148936096383%;
+}
+.grid8 {
+	width: 65.95744680199999%;
+	*width: 65.90425531263828%;
+}
+.grid7 {
+	width: 57.446808505%;
+	*width: 57.3936170156383%;
+}
+.grid6 {
+	width: 48.93617020799999%;
+	*width: 48.88297871863829%;
+}
+.grid5 {
+	width: 40.425531911%;
+	*width: 40.3723404216383%;
+}
+.grid4 {
+	width: 31.914893614%;
+	*width: 31.8617021246383%;
+}
+.grid3 {
+	width: 23.404255317%;
+	*width: 23.3510638276383%;
+}
+.grid2 {
+	width: 14.89361702%;
+	*width: 14.8404255306383%;
+}
+.grid1 {
+	width: 6.382978723%;
+	*width: 6.329787233638298%;
+}
